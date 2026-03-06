@@ -52,4 +52,6 @@ body {
             padding: 20px;
             font-size: 14px;
             position: fixed;
+            bottom: 0;
+            right: 0;
         }
