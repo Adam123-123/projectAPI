@@ -25,14 +25,14 @@ body {
             padding: 10px 15px;
             border: none;
             border-radius: 8px;
-            background: #ff0000;
+            background: greenyellow;
             color: white;
             cursor: pointer;
             font-weight: bold;
         }
 
         button:hover {
-            background: #cc0000;
+            background: #054eeb;
         }
 
         img {
