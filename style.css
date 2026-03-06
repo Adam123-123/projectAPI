@@ -1,8 +1,11 @@
 body {
             font-family: Arial, sans-serif;
             background: linear-gradient(135deg, green, #ffffff);
+            background-image: url("pokemon.jpg");
+            background-size: cover;
             text-align: center;
             padding: 40px;
+
         }
 
         .container {
